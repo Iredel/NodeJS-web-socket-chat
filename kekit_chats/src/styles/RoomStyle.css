@@ -1,0 +1,24 @@
+.message-box:hover{
+    background-color: rgba(23, 23, 23, 0.3);
+}
+
+
+.image-upload > input
+{
+    display: none;
+}
+
+.image-upload img
+{
+    width: 80px;
+    cursor: pointer;
+}
+
+.member-list{
+    background-color: rgba(49,51,56,255);
+}
+
+body{
+    background-color: rgba(49,51,56,255);
+    overflow-x: hidden;
+}

@@ -1,0 +1,28 @@
+.main{
+        background-color: #282c34;
+        min-height: 100vh;
+        min-width: 100vh;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+
+        color: white;
+}
+
+.form{
+        width: 50%;
+}
+
+.room-list{
+        width: 35%;
+}
+
+.list{
+        background-color: rgba(30, 30, 30, 0.54);
+        border: 1px solid #6e6e6e;
+        border-radius: 8px;
+}
+body{
+        overflow-y: hidden;
+}
